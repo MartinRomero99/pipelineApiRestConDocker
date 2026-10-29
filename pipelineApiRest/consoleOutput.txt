@@ -1,0 +1,16 @@
+[Running] python -u "c:\Users\vtxpr\Downloads\Data Engineer\pipelineApiRest\main.py"
+2026-10-29 12:13:54,404 - INFO - ==================================================
+2026-10-29 12:13:54,404 - INFO - API Pipeline - Iniciando
+2026-10-29 12:13:54,405 - INFO - ==================================================
+2026-10-29 12:13:54,405 - INFO - Fetching 5000 rows of ecommerce data...
+2026-10-29 12:13:55,176 - INFO - Received 5000 orders
+2026-10-29 12:13:55,182 - INFO - Transformando datos...
+2026-10-29 12:13:55,529 - INFO - Transformadas 5000 �rdenes
+2026-10-29 12:13:55,530 - INFO - Guardando datos en output/...
+2026-10-29 12:13:57,287 - INFO - Guardadas 5000 �rdenes
+2026-10-29 12:13:57,294 - INFO - Particiones: 46 meses
+2026-10-29 12:13:57,294 - INFO - ==================================================
+2026-10-29 12:13:57,294 - INFO - Pipeline completado exitosamente!
+2026-10-29 12:13:57,294 - INFO - ==================================================
+
+[Done] exited with code=0 in 16.793 seconds
